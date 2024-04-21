@@ -19,7 +19,7 @@ Code and CAD models repository for our MIT CRE[AT]E challenge device, a haptic a
   - 3d Printer
   - Screwdriver
 
-# Part Print Settings
+# Printed Parts and settings
 ## Main Body STL
 #### QTY: 1
 ### Suggested Print Settings:
