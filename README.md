@@ -47,6 +47,7 @@ Code and CAD models repository for our MIT CRE[AT]E challenge device, a haptic a
 #### Orientation in slicer (Orca slicer shown)
 
 
+
 ## Cap STL
 #### QTY: 2
 ### Suggested Print Settings:
@@ -58,6 +59,9 @@ Code and CAD models repository for our MIT CRE[AT]E challenge device, a haptic a
   - Supports off
 
 #### Orientation in slicer (Orca slicer shown)
+![Screenshot 2024-04-21 174940](https://github.com/Wafflom/MIT-CRE-AT-E-team-HAPlas/assets/128776051/92957a9c-2f2d-41d6-bdc3-618abf81aa0e)
+#### Sliced No Supports (Orca slicer shown)
+![Screenshot 2024-04-21 175055](https://github.com/Wafflom/MIT-CRE-AT-E-team-HAPlas/assets/128776051/6dc53d9c-9836-4a8f-8b4e-471d5fa204ed)
 
 
 ## Battery Holder STL
