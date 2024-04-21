@@ -18,8 +18,9 @@ Two different variants of the program have been provided. The first, `Code_Simpl
   - Include the library in the program
 ![Screenshot 2024-04-21 184022](https://github.com/Wafflom/MIT-CRE-AT-E-team-HAPlas/assets/128776051/73bcea69-021c-4e95-9af9-a23d9a30ee7a)
   **Note If using your own library, replace the file name in the quotations with your own library name
-
+    
 # File naming convention:
+`*Note this is only if you want to use your own audio, if you want to use the same ones we did you can find those files here:` [Audio We Used](https://github.com/Wafflom/MIT-CREATE-team-HAPlas/tree/86a4da8f8bbf2c63ec49366ca752f0183104cafe/Code/Audio%20Files)
 #### When uploading audio files to the SD card for the MP3 player, ensure that the files are in the root directory of the SD card and are named 001, 002, 003... etc. 
 #### You will call to play these files using the function:
 ```ruby
