@@ -22,6 +22,7 @@ Code and CAD models repository for our MIT CRE[AT]E challenge device, a haptic a
   - Lathe
 
 # Printed Parts and settings
+[STL's found here](https://github.com/Wafflom/MIT-CREATE-team-HAPlas/tree/002e4f92e56438b101ec2bbca2ead18dcc9f6623/STL's)
 ## Main Body STL
 #### QTY: 1
 ### Suggested Print Settings:
