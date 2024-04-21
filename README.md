@@ -45,6 +45,9 @@ Code and CAD models repository for our MIT CRE[AT]E challenge device, a haptic a
   - Supports off
 
 #### Orientation in slicer (Orca slicer shown)
+![Screenshot 2024-04-21 175325](https://github.com/Wafflom/MIT-CRE-AT-E-team-HAPlas/assets/128776051/c72ea51c-c83c-41b8-b700-d7b885a9bb0b)
+#### Sliced No Supports
+![Screenshot 2024-04-21 175444](https://github.com/Wafflom/MIT-CRE-AT-E-team-HAPlas/assets/128776051/7d12a601-3af2-460d-a372-5d9828e0e3b5)
 
 
 
