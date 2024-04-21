@@ -5,7 +5,7 @@ Two different variants of the program have been provided. The first, `Code_Simpl
   - [Gesture Library](https://github.com/Wafflom/MIT-CRE-AT-E-team-HAPlas/tree/48943a845ded3df958085c8eb5ed810e9c71b0dc/Code/Gesture%20Library)
 ### Or you can create your own using these instructions provided by Seedduino:
   - [Library creation instructions](https://wiki.seeedstudio.com/XIAOEI/)
-  - 
+    
 ## Default Gestures:
   - Jab (straight punch)
   - Uppercut
