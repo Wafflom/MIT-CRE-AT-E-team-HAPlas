@@ -2,7 +2,7 @@
 
 # Using Gesture recognition:
 ### If the usage of gesture recognition is desired, you can either use the included gesture library:
-  - [Gesture Library]()
+  - [Gesture Library](https://github.com/Wafflom/MIT-CRE-AT-E-team-HAPlas/tree/48943a845ded3df958085c8eb5ed810e9c71b0dc/Code/Gesture%20Library)
 ### Or you can create your own using these instructions provided by Seedduino:
   - [Library creation instructions]()
 
