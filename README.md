@@ -3,7 +3,8 @@ Code and CAD models repository for our MIT CRE[AT]E challenge device, a haptic a
 
 # BOM:
 ### Electronics:
-
+  - [Seeed Studio XIAO nRF52840 Sense](https://www.seeedstudio.com/Seeed-XIAO-BLE-Sense-nRF52840-p-5253.html)
+  - [DFPlayer mini MP3 player](https://www.dfrobot.com/product-1121.html) 
 ### Hardware:
 
 # Part Print Settings
