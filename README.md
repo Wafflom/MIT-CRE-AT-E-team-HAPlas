@@ -4,7 +4,9 @@ Code and CAD models repository for our MIT CRE[AT]E challenge device, a haptic a
 # BOM:
 ### Electronics:
   - [Seeed Studio XIAO nRF52840 Sense](https://www.seeedstudio.com/Seeed-XIAO-BLE-Sense-nRF52840-p-5253.html)
-  - [DFPlayer mini MP3 player](https://www.dfrobot.com/product-1121.html) 
+  - [DFPlayer mini MP3 player](https://www.dfrobot.com/product-1121.html)
+  - [1W 40mm 2 pin speaker](https://www.amazon.com/Fielect-Magnet-Speaker-Internal-Loudspeaker/dp/B083TDLGNB?th=1)
+  - [UltraFire 10440 Li-ion battery](https://www.batteryupgrade.com/shopBrowser.php?assortmentProductId=21883872&shopGroupId=70741364)
 ### Hardware:
 
 # Part Print Settings
