@@ -5,3 +5,8 @@
   - Uppercut
   - Hook
 ## Library upload instructions:
+  - Download the library
+
+  - Upload to Arduino IDE
+
+  - Include in program
