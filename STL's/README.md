@@ -1,6 +1,6 @@
 
 # All files are in STL format and were made in Fusion 360
-[Click here for CAD files](main/CAD)
+[Click here for CAD files](https://github.com/Wafflom/MIT-CRE-AT-E-team-HAPlas/tree/3dc7fa5a1ae9da620413d32ac780f9345f8a3a3e/CAD)
 
 # Part Print Settings
 ## Main Body STL
