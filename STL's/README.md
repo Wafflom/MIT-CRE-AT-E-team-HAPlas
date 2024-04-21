@@ -1,6 +1,6 @@
 
 # All files are in STL format and were made in Fusion 360
-### Full CAD file here:
+[Click here for CAD files](CAD/)
 
 # Part Print Settings
 ## Main Body STL
