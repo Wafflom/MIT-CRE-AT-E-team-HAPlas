@@ -28,4 +28,13 @@ myDFPlayer.play(/*number*/);
 #### With the number corresponding to the file you want to be played, this convention for naming should also be used if the user desires to use different audio files than the ones we used.
 
 
+# Code upload instructions
+## Install the Arduino IDE 
+  - [Download link](https://www.arduino.cc/en/software)
+## Install the Seeed Studio board library
+  - After opening the Arduino IDE click on File > Preference, and fill in Additional Boards Manager URLs with the URL below:
+    https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
+![Screenshot 2024-04-21 192040](https://github.com/Wafflom/MIT-CRE-AT-E-team-HAPlas/assets/128776051/669a1af1-e168-4f81-8e60-15b3c4b7a20f)
+## Select the board in Arduino programmer and hit upload
+![Screenshot 2024-04-21 192322](https://github.com/Wafflom/MIT-CRE-AT-E-team-HAPlas/assets/128776051/50197656-fb2b-4b20-8055-c5b251d984f0)
 
