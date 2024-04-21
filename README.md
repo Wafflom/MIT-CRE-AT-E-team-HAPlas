@@ -11,6 +11,7 @@ Code and CAD models repository for our MIT CRE[AT]E challenge device, a haptic a
 #### QTY: 1
 
 
+
 ### Suggested Print Settings:
   - 0.16mm Layer Height
   - 3 Walls
