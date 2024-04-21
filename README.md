@@ -13,11 +13,13 @@ Code and CAD models repository for our MIT CRE[AT]E challenge device, a haptic a
   - 1.5mm thick, 15mm wide double-sided foam tape
   - 26AWG wire (for the electronics)
   - 250~ grams of PLA (PLA+ recommended, color is up to preference) We used [Bambulabs PLA MATTE](https://us.store.bambulab.com/products/pla-matte-filament?variant=41078280093832)
+  - 12mm Brass rod (other types of dense metal can be used depending on preference and availiability)
 
 ### Tools:
   - Soldering Iron
   - 3d Printer
   - Screwdriver
+  - Lathe
 
 # Printed Parts and settings
 ## Main Body STL
