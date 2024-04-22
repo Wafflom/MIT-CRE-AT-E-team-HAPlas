@@ -91,7 +91,7 @@ Code and CAD models repository for our MIT CRE[AT]E challenge device, a haptic a
     https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
 ![Screenshot 2024-04-21 192040](https://github.com/Wafflom/MIT-CRE-AT-E-team-HAPlas/assets/128776051/669a1af1-e168-4f81-8e60-15b3c4b7a20f)
 ## Select which program variant you want to use
-  - [click here for code options](https://github.com/Wafflom/MIT-CRE-AT-E-team-HAPlas/tree/86a4da8f8bbf2c63ec49366ca752f0183104cafe/Code)
+  - [click here for code options](https://github.com/Wafflom/MIT-CREATE-team-HAPlas/tree/86a4da8f8bbf2c63ec49366ca752f0183104cafe/Code)
 ## Select the board in Arduino programmer and hit upload
 ![Screenshot 2024-04-21 192322](https://github.com/Wafflom/MIT-CRE-AT-E-team-HAPlas/assets/128776051/50197656-fb2b-4b20-8055-c5b251d984f0)
 
